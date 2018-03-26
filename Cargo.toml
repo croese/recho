@@ -1,0 +1,7 @@
+[package]
+name = "recho"
+version = "0.1.0"
+authors = ["croese"]
+
+[dependencies]
+clap = "2.31.2"
